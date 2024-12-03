@@ -1,0 +1,1 @@
+import{o as c,x as n,y as l,r as s,v as m,S as p,c as f}from"./index-DvoCSHZ6.js";const N={...c,...n,...l},S=s.forwardRef((r,a)=>{const{asChild:t,className:e,...o}=m(r,N);return s.createElement(t?p:"strong",{...o,ref:a,className:f("rt-Strong",e)})});S.displayName="Strong";export{S as r};
